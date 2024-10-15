@@ -1,0 +1,11 @@
+body{
+    background-color: #29292E;
+}
+
+div.container{
+    width: 1280px;
+    margin: 80px auto;
+    padding: 88px 80px;
+    box-sizing: border-box;
+    background-color: #F5F4F0;
+}
